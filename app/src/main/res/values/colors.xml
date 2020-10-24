@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8d99ae</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorfinger">#edddd4</color>
+    <color name="baslik">#197278</color>
+    <color name="yazi">#772e25</color>
+    <color name="yer">#283d3b</color>
+    <color name="yer2">#d8e2dc</color>
+</resources>

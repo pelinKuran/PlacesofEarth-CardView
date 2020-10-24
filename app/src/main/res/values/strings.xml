@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Places of Earth</string>
+    <string name="lovely_image_of_kadikoy">lovely image of kadikoy</string>
+    <string name="desc_kadikoy">Kadıköy is the ancient Khalkedon settlement which hosted important meetings of the Christian world in the 5th century. This historical texture, even today, makes itself felt to the people of the region. Kadıköy, which is the most popular neighborhood of Anatolian side, has been developing rapidly, especially in recent years. And not just with its wide streets, shopping opportunities and beautiful beaches, Kadıköy offers a variety of beauties such as yacht clubs and marinas. </string>
+    <string name="desc_cakraz">If you like sand beaches, this is the place. There are enough facilities around, so many small hotels and restaurants. One disadvantage of the beach is the wind and high waves especially in the afternoon. We would like recommend you to check the weather report before arriving.</string>
+    <string name="desc_koycegiz">Taking a nice lake hike will give you a great comfort. Koycegiz can be considered as the heaven of ecological tourism. You can take a hiking tour through the plateaus and the magnificent pine covered hills such as Golgeli Mountains, Sandras, Besparmak and Cankurtaran Summit. </string>
+    <string name="Loc_1">Pembroke Pines</string>
+    <string name="Loc_1alt">Miami, Usa</string>
+    <string name="Loc_2">Çakraz</string>
+    <string name="Loc_2alt">Bartın, Turkey</string>
+    <string name="Loc_3">Köyceğiz</string>
+    <string name="Loc_3alt">Muğla, Turkey</string>
+
+</resources>
